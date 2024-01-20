@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![3D Spinning Cube]![image](https://github.com/rajanarahul93/3D-Spinning-Cube-Illusion/assets/123227543/5114da38-3986-4c18-a37e-17837aa8dde6)
+![image](https://github.com/rajanarahul93/3D-Spinning-Cube-Illusion/assets/123227543/5114da38-3986-4c18-a37e-17837aa8dde6)
 
 
 ## Features
